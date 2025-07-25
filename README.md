@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Dara Mustafa, a passionate Full-Stack Developer based in Duhok, Iraq. I specialize in building and deploying scalable web applications with a strong focus on clean code, performance, and user-centered design. I have hands-on experience across the tech stack, from crafting robust backends and integrating APIs to designing modern, responsive frontends. My projects span AI-powered applications, civic platforms, e-commerce, and more.<br><br>I thrive in agile environments, enjoy collaborating on impactful projects, and continuously seek to expand my knowledge in emerging technologies.
+I'm Dara Mustafa, a passionate Software Developer based in Duhok, Iraq. I specialize in building and deploying scalable web applications with a strong focus on clean code, performance, and user-centered design. I have hands-on experience across the tech stack, from crafting robust backends and integrating APIs to designing modern, responsive frontends. My projects span AI-powered applications, civic platforms, e-commerce, and more.<br><br>I thrive in agile environments, enjoy collaborating on impactful projects, and continuously seek to expand my knowledge in emerging technologies.
 
 
 ## 🌐 Socials:
