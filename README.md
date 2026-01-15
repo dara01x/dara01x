@@ -66,14 +66,6 @@ I thrive in collaborative environments, enjoy working on impactful projects, and
 
 ---
 
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dara01x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-
 ## 📫 Let's Connect!
 I'm always interested in collaborating on innovative projects and discussing new opportunities. Feel free to reach out!
 
